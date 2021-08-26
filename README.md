@@ -1,5 +1,4 @@
-Beam me up Scotty! Ingredi, Apaixonada por Cinema e Tecnologia.
-
+Beam me up Scotty!
  <div>
   <a href="https://github.com/ingredisilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingredisilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
